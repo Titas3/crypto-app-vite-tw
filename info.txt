@@ -1,0 +1,8 @@
+https://vitejs.dev/guide/#scaffolding-your-first-vite-project
+
+
+https://tailwindcss.com/docs/guides/vite
+
+https://reactrouter.com/en/main/start/overview
+
+https://heroicons.com/
