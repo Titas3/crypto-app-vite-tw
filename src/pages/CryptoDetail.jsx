@@ -1,9 +1,13 @@
+import CoinDetail from "../components/CoinDetail"
+import HistoryChart from "../components/HistoryChart"
 
-import React from 'react'
-
-function CryptoDetail() {
+const CryptoDetail = () => {
   return (
-    <div>CryptoDetail</div>
+    <div className="wrapper-container mt-10">
+      <HistoryChart />
+      <CoinDetail />
+      {/* Coin */}
+    </div>
   )
 }
 
